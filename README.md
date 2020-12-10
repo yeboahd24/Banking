@@ -18,7 +18,7 @@ This is a Banking web-app I created as a part of my Engineering curriculum.
 ## Installation
 1. Open a Terminal, and clone the current repository.
     ```
-    git clone https://github.com/rafi007akhtar/CentralBank.git
+    git clone https://github.com/yeboahd24/CentralBank.git
     ```
 2. Enter the root directory.
     ```
