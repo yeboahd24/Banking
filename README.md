@@ -7,8 +7,6 @@ This is a Banking web-app I created as a part of my Engineering curriculum.
 <li> Store and edit your details.
 <li> Transfer (fictitious) money from one bank account to another.
 
-## Demo
-![](https://raw.githubusercontent.com/rafi007akhtar/CentralBank/master/media/demo.gif)
 
 ## Prerequisites
 1. A Terminal (preferred) or a CMD
