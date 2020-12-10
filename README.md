@@ -27,9 +27,7 @@ This is a Banking web-app I created as a part of my Engineering curriculum.
     ```
     python manage.py runserver
     ```
-    If that didn't work, try replacing `python` by `python3` in the above command.
-
-4. Follow the <a href="#demo">Demo</a> section and use the app as you like.
+    
 
 ### Disclaimer
 This app represents a  fictitious bank. All transactions, account numbers and account holdings are unreal.
